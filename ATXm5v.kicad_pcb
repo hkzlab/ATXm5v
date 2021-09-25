@@ -586,4 +586,19 @@
       )
     )
   )
+  (zone (net 3) (net_name VCC) (layer F.Mask) (tstamp 0) (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 138.43 71.12) (xy 124.46 71.12) (xy 124.46 58.42) (xy 138.43 58.42)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 138.303 70.993) (xy 124.587 70.993) (xy 124.587 58.547) (xy 138.303 58.547)
+      )
+    )
+  )
 )
