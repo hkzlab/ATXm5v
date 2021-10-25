@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I needed a quick and cheap way to get -5V out of a modern ATX PSU. The current requirements were risible, so I just made an inline module that takes -5V and regulates down to -5V using a simple and cheap 7905.
+I needed a quick and cheap way to get -5V available on a modern ATX PSU. The current requirements were risible, so I just made an inline module that takes -12V and regulates down to -5V using a simple and cheap 7905.
 
 ![Rev. 1.0 PCB](pics/ATXm5v.jpg)
 
